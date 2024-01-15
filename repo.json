@@ -1,11 +1,26 @@
 {
-    "repo_name":"bop-gems",
-    "origin":"Origin for the bop-gems Gem Repository",
-    "repo_uri": "",
-    "summary": "A Gem Repository with a single Gem in the root of the repository.",
-    "additional_info": "Additional info for bop-gems",
-    "last_updated": "",
-    "gems": [
-        ""
-    ]
+  "repo_name": "bop-gems",
+  "origin": "Origin for the bop-gems Gem Repository",
+  "repo_uri": "https://raw.githubusercontent.com/BytesOfPiDev/bop-gems/main",
+  "summary": "A Gem Repository with a single Gem in the root of the repository.",
+  "additional_info": "Additional info for bop-gems",
+  "gems": [
+    "https://raw.githubusercontent.com/BytesOfPiDev/Conversation/development",
+    "https://raw.githubusercontent.com/BytesOfPiDev/o3de-interaction/development"
+  ],
+  "gems_data": [
+    {
+      "gem_name": "Conversation",
+      "version": "0.0.0",
+      "platforms": ["Linux"],
+      "display_name": "Conversation",
+      "origin": "Andre Mitchell",
+      "origin_url": "https://github.com/BytesOfPiDev/Conversation/tree/development",
+      "type": "Code",
+      "summary": "",
+      "dependencies": [],
+      "restricted": "Conversation",
+      "repo_uri": "https://raw.githubusercontent.com/BytesOfPiDev/Conversation/development"
+    }
+  ]
 }
