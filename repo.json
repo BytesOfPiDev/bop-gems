@@ -1,0 +1,11 @@
+{
+    "repo_name":"bop-gems",
+    "origin":"Origin for the bop-gems Gem Repository",
+    "repo_uri": "",
+    "summary": "A Gem Repository with a single Gem in the root of the repository.",
+    "additional_info": "Additional info for bop-gems",
+    "last_updated": "",
+    "gems": [
+        ""
+    ]
+}
